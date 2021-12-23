@@ -12,7 +12,7 @@ public class Main {
         switch (ch) {
 
             case 'h':
-                x = "Hello!";
+                x = "Helo!";
                 break;
             case 'i', 'm', 'k':
                 x = "I can decode!";
